@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MainGame
+comment1.params=
+comment1.target=MainGame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MainGame\r\n
+comment2.params=
+comment2.target=void\ Room2()
+comment3.params=
+comment3.target=void\ Room3()
+comment4.params=
+comment4.target=void\ Room4()
+comment5.params=
+comment5.target=void\ checkInventory()
+numComments=6
